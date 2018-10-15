@@ -1,0 +1,2 @@
+# startgo
+first go project
